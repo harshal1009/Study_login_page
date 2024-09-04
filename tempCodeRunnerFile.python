@@ -1,0 +1,3 @@
+a=input("enter gender of the baby")
+b=input("enter first letter of your baby you want")
+if b = a :
